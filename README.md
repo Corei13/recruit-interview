@@ -5,9 +5,13 @@ Please make sure you have the following installed
 
 
 ## Setting up
-1. Host this repository in your personal github account with name **recruit-interview**
-2. Send us the link of your github repository in slack
-3. Run following command to install dependencies
+1. After unzipping the folder, run the following command
+    ```bash
+    rm -rf .git
+    ```
+3. Host this repository in your personal github account with name **recruit-interview**
+4. Send us the link of your github repository in slack
+5. Run following command to install dependencies
     ```bash
     yarn
     ```
